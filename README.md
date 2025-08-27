@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Axiom Project** is a science fair project designed to demonstrate how an ultrasonic sensor can be used to control a servo motor based on distance calculations, applying the Pythagorean theorem for sensor placement and range estimation.
+**IntelliToll System** is a science fair project designed to demonstrate how an ultrasonic sensor can be used to control a servo motor based on distance calculations, applying the Pythagorean theorem for sensor placement and range estimation.
 
 ## How It Works
 
